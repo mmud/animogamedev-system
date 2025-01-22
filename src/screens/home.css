@@ -1,0 +1,39 @@
+.pro{
+    color: white;
+}
+
+.pro .container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sectionscont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 257px;
+}
+
+    .sectionscont .type {
+        width: 285px;
+        height: 130px;
+    }
+
+
+@media (max-width:992px) {
+    .pro .container{
+        display: block;
+    }
+}
+
+@media (max-width:630px) {
+    .sectionscont .type{
+        width: 100% !important;
+    }
+    .sectionscont{
+        display: block;
+    }
+}

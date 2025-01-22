@@ -1,0 +1,181 @@
+
+
+.loginp{
+    padding: 20px;
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    display: flex;
+    align-items: center;
+}
+
+.loginp h1{
+    text-align: center;
+    color: #2865a4;
+}
+
+.loginp p{
+    text-align: center;
+    color: #55a1dd;
+}
+/*
+.loginp button{
+    cursor: pointer;
+    outline: none;
+    border: none;
+    display: block;
+    color: white;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+}
+*/
+
+.loginp button{
+    cursor: pointer;
+    outline: none;
+    border: none;
+    display: block;
+    color: white;
+    padding: 20px;
+    margin: 10px 0;
+    width: 100%;
+    border-radius: 50px;
+}
+
+.loginp .button{
+    cursor: pointer;
+    outline: none;
+    border: none;
+    display: block;
+    color: white;
+    padding: 0 20px;
+    margin: 10px 0;
+    width: 100% !important;
+    border-radius: 50px !important;
+}
+
+.loginp .google-btn span{
+    font-weight: bold;
+    /* color: black; */
+    font-size: 20px;
+}
+
+.loginp .google-btn{
+    background-color: #ff3f34;
+}
+
+.loginp .face-btn{
+    background-color: #212528;
+    position: relative;
+    font-weight: bold;
+    padding-left: 48px;
+}
+
+.loginp .face-btn i{
+    font-size: 27px;
+    position: absolute;
+    top: 50%;
+    left: 30px;
+    transform: translateY(-50%);
+}
+
+.loginp img{
+    width: 50%;
+    height: 50%;
+}
+
+.loginp .theform{
+    width: 50%;
+}
+
+
+@media (max-width:768px) {
+    .loginp{
+        flex-direction: column;
+        width: 100%;
+    }
+    .loginp .theform{
+        width: 100%;
+    }
+    .loginp img{
+        width: 100%;
+    }
+}
+
+
+.wavel,.waver{
+    position: absolute;
+    width: 50%;
+}
+
+.waver{
+    right: 0;
+    top: 0;
+}
+
+.wavel{
+    left: 0;
+    bottom: 0;
+}
+
+
+@media (max-width:1200px) {
+    .wavel,.waver{
+        position: absolute;
+        width: 60%;
+    }
+    
+}
+
+.loginp h1{
+    font-size: 70px;
+    color: #e0e9ef;
+    margin-bottom: 10px;
+}
+
+.loginp h2{
+    color: #bec3c7;
+    direction: rtl;
+    text-align: center;
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+.learners{
+    text-align: center;
+    color: #4caf50;
+}
+
+.flexle{
+    display: flex;
+    justify-content: center;
+}
+
+.flexle i{
+    color: #4caf50;
+    margin-left: 5px;
+}
+
+@media (max-width:500px) {
+    .loginp .google-btn span{
+        position: absolute;
+        max-width: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 14px;
+    }
+    .loginp .face-btn {
+        background-color: #212528;
+        position: relative;
+        font-weight: 700;
+        padding-left: 48px;
+        font-size: 15px;
+    }
+}

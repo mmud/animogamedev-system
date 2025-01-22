@@ -1,0 +1,74 @@
+.codes{
+    color: white;
+    text-align: center;
+    max-width: 700px;
+}
+
+.codes p{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.codes button{
+    width: 100%;
+    padding: 10px;
+    background-color: #232323;
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.codes a{
+    margin-top: 10px;
+    text-decoration: underline;
+    display: block;
+}
+
+.codes hr{
+    margin: 10px 0;
+    background-color: #2B2B2B;
+}
+
+.codes div{
+    text-align: right;
+    padding-top: 20px;
+    border-top: 1px solid #232323;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.codes div span{
+    background-color: #151419;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.codes ul{
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.codes ul li{
+    margin-bottom: 5px;
+    position: relative;
+}
+
+.codes ul li::before{
+    content: "";
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    background-color: #151419;
+    right: -15px;
+    top: 50%;
+    transform: translateY(-50%);
+}
