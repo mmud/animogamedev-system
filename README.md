@@ -41,18 +41,12 @@ AnimoGameDev is a dynamic platform for game developers to collaborate, learn, an
    ```bash
    npm install
    ```
-
-4. Set up Firebase:
-   - Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/).
-   - Enable Google Authentication and Firestore Database.
-   - Download the `firebase-config` file and place it in the project.
-
-5. Start the development server:
+4. Start the development server:
    ```bash
    npm start
    ```
 
-6. Access the platform in your browser at `http://localhost:3000`.
+5. Access the platform in your browser at `http://localhost:3000`.
 
 ---
 
