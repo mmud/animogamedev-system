@@ -52,23 +52,25 @@ AnimoGameDev is a dynamic platform for game developers to collaborate, learn, an
 
 ## 🖥️ Screenshots
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQE_ISVdF0qMbQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1692094525011?e=1745452800&v=beta&t=6zYBUIqo99E6hVOLEicN4X-q1wyWDOzmVLKrC7-MAhA)
+![Home Page](./images/f6ce4cd24d3245ea87160ecf81bde46b.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQFktGpd026ffA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1692094525732?e=1745452800&v=beta&t=pBbsW72JQf4ukGe6AThF2OIMOgsjVnmH1n2bThGxlzU)
+![Home Page](./images/2479a3edbd2a478b98c10a9a83da5788.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQFXSjzHX8DVkg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1692094525796?e=1745452800&v=beta&t=FZgpT6oIYNthP-TYaezcjiR5WJY1L2ZQXVlGO3uqsgY)
+![Home Page](./images/Screenshot%202025-08-25%20084145.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQEjcK7UrDzrfw/feedshare-shrink_1280/feedshare-shrink_1280/0/1692094526096?e=1745452800&v=beta&t=bEYM9pe_mh9kkEZ42-atcgc5m_iRfXEzxvhSp4bKfWw)
+![Home Page](./images/Screenshot%202025-08-25%20084213.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQFR9rzkNY-OUA/feedshare-shrink_1280/feedshare-shrink_1280/0/1692094526046?e=1745452800&v=beta&t=Kv9qVRLDai3R86hkanJZA6QhNO3_1ZPMMYiSHyMAmBQ)
+![Home Page](./images/Screenshot%202025-08-25%20084245.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQEOiD0fEnZZ9g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1692094526592?e=1745452800&v=beta&t=Af6IgFa7f2mhrEH5dqkuQrEgqDgcL1Jj0K_4nHI9Ew0)
+![Home Page](./images/Screenshot%202025-08-25%20084316.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQGZ1rJEmtgFKA/feedshare-shrink_1280/feedshare-shrink_1280/0/1692094526450?e=1745452800&v=beta&t=kPy9KxhNLx-C5T435mOXYH6xdz84yvCGWSDYb8lubdo)
+![Home Page](./images/Screenshot%202025-08-25%20084346.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQE-lj-GkllIig/feedshare-shrink_1280/feedshare-shrink_1280/0/1692094526292?e=1745452800&v=beta&t=HQ3caHWf6RTe9jg7jPlW3p-g0bL3A1oYlZs3PUsv5TY)
+![Home Page](./images/Screenshot%202025-08-25%20084415.png)
 
-![Home Page](https://media.licdn.com/dms/image/v2/D4D22AQFyCvcyNgWDSA/feedshare-shrink_1280/feedshare-shrink_1280/0/1692094526366?e=1745452800&v=beta&t=s7-oBLip72Go4quhiEKnsKRjsskIfRzhq_YWcwdTb9Q)
+![Home Page](./images/0c17a476f4b948c6bbbe2aa6e977d1be.png)
+
+![Home Page](./images/3d52a98961384a4981374886d88f9281.png)
 
 ---
 
